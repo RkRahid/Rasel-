@@ -1,0 +1,6 @@
+{
+  "name": "RAHID JARVIS AI",
+  "description": "Futuristic AI Voice Assistant with Bengali & English support, Gemini AI, voice recognition, Bengali TTS, phone controls, and Nothing Phone inspired cyberpunk HUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

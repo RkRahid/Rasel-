@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RAHID JARVIS AI</string>
+    <string name="jarvis_title">RAHID JARVIS AI</string>
+    <string name="jarvis_subtitle">ADVANCED SYSTEM v3.5 // NOTHING OS OPTIMIZED</string>
+    <string name="status_online">SYSTEM ONLINE</string>
+    <string name="status_listening">LISTENING...</string>
+    <string name="status_processing">PROCESSING QUERY...</string>
+    <string name="status_speaking">SPEAKING...</string>
+    <string name="status_ready">AWAITING COMMAND</string>
+    <string name="input_placeholder">কীভাবে সাহায্য করতে পারি? / Ask Jarvis...</string>
+    <string name="voice_btn_cd">Microphone Voice Input</string>
+    <string name="send_btn_cd">Send Query</string>
+    <string name="clear_chat_title">কনভার্সেশন মুছুন</string>
+    <string name="clear_chat_confirm">আপনি কি সব পূর্ববর্তী চ্যাট ইতিহাস মুছে ফেলতে চান?</string>
+    <string name="confirm_yes">হ্যাঁ (Confirm)</string>
+    <string name="confirm_no">না (Cancel)</string>
+    <string name="wake_word_label">Hey Jarvis Wake Word</string>
+    <string name="flashlight_on">টর্চ অন করা হয়েছে (Flashlight Activated)</string>
+    <string name="flashlight_off">টর্চ অফ করা হয়েছে (Flashlight Deactivated)</string>
+    <string name="app_launch_failed">অ্যাপটি খুলতে ব্যর্থ হয়েছে (App launch failed)</string>
+    <string name="permission_mic_needed">ভয়েস কমান্ডের জন্য মাইক্রোফোন পারমিশন প্রয়োজন।</string>
+    <string name="permission_camera_needed">টর্চ/ফ্ল্যাশলাইট নিয়ন্ত্রণের জন্য ক্যামেরা এক্সেস প্রয়োজন।</string>
+</resources>
